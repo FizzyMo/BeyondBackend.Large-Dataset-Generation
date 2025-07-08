@@ -1,4 +1,6 @@
-# Large Dataset Generation
+![Header](https://github.com/user-attachments/assets/a039ce3a-a652-4d0a-be3e-b0ee4b55c83c)
+<h1 align="center">Large Dataset Generation</h1>
+
 Provides a script to generate a large dataset from a News API using Node.js. The script fetches data from the API, formats it, and writes it to a text file.
 
 ## Table of Contents
